@@ -1,0 +1,151 @@
+,peakid,pkname,pkname2,location,heightm,heightf,himal,region,open,unlisted,trekking,trekyear,restrict,phost,pstatus,peakmemo,pyear,pseason,pexpid,psmtdate,pcountry,psummiters,psmtnote,refermemo,photomemo
+0,ANN1,Annapurna,,Annapurna Himal,8091,26545.0,1.0,5.0,1,0,0,,,1.0,2.0,"Other map altitudes:
+   8091m - HMG-MT, HMG-Finn, Nepa, Shangri La, Schneider, Japan MMW, Leomann",1950,1.0,ANN150101,Jun 03,France,"Maurice Herzog, Louis Lachenal",,Dyhrenfurth history 1950-1977 (MM 58:44-47 Nov 1977),"S Face (High 122:3 Jan 1993) (Beghin accident)
+N Face (High 205:72 Dec 1999)
+N Side (MM 88:41 Nov 1982)
+NW Face (MM 58:46 Nov 1977)
+S Face (MM 58:46 Nov 1977)
+S Face (MM 12:20 Nov 1970) (Bonington route)
+W Face (AAJ 66:220 1992) (various routes)"
+1,ANNE,Annapurna,,Annapurna Himal (ENE of Annapurna I),8091,26332.0,1.0,5.0,1,0,0,,Requires permit for Annapurna I,1.0,2.0,"Other map altitudes:
+   8000m - Leomann",1974,1.0,ANNE74101,Apr 29,Spain,"Jose Manuel Anglada Nieto, Jorge Pons Sangines, Emilio Givis Abad",,,N Side (MM 88:41 Nov 1982)
+2,ANNM,Annapurna,,Annapurna Himal (ENE of Annapurna I),8091,26414.0,1.0,5.0,1,0,0,,Requires permit for Annapurna I,1.0,2.0,"Other map altitudes:
+   8013m - HMG-Finn
+   8051m - Leomann",1980,3.0,ANNM80301,Oct 03,W Germany,"Udo Boening, Ludwig Greissl, Heinz Oberrauch",,,
+3,CHOY,Cho Oyu,,Khumbu Himal (NW of Everest on Tibetan border),8188,26864.0,12.0,2.0,1,0,0,,,4.0,2.0,"Other map altitudes:
+   8153m - Shangri La, Schneider, Japan MMW
+   8188m - HMG-MT, HMG-Finn, Nepa
+   8201m - Kielkowski
+
+Altitude milestones on Cho Oyu:
+
+   7500-7800m - Yellow Band
+   8100m - Summit plateau",1954,3.0,CHOY54301,Oct 19,"Austria, Nepal","Herbert Tichy, Sepp Jeochler, Pasang Dawa Lama",,Dyhrenfurth history 1950-1978 (MM 60:40-42 Mar 1978),"NNE Ridge (High 175:87 Jun 1997)
+N Side (High 175:87 Jun 1997)
+SW Face (MM 137:8 Jan 1991)
+N Face (MM 126:13 Mar 1989)
+SW Face (AAJ 65:15 1991) (Polish 1990 routes)
+N Face (AAJ 63:280-281 1989) (Yugoslav 1988 route)
+SE Face (AAJ 60:6-8 1986) (various routes)"
+4,DHA1,Dhaulagiri I,,Dhaulagiri Himal,8167,26795.0,4.0,6.0,1,0,0,,,1.0,2.0,"Other map altitudes:
+   8167m - HMG-MT, HMG-Finn, Nepa, Japan MMW, Leomann",1960,1.0,DHA160101,May 13,"Switzerland, Austria, W Germany, Nepal","Peter Diener, Kurt Diemberger, Albin Schelbert, Ernst Forrer, Nima Dorje Sherpa, Nawang Dorje Sherpa",,Dyhrenfurth history 1952-1978 (MM 63:32-36 Sep 1978),"E Face (MM 74:13 Jul 1980, High 175:91 Jun 1997)
+All sides (High 179:30-32 Oct 1997) 
+W Face (MM 102:14 Mar 1985, High 188:25 Jul 1998) 
+E/N Faces (High 188:25 Jul 1998)
+S Face (AAJ 74:12 2000) (Humar 1999, et al routes)
+W Face (AAJ 66:225 1992) (various routes)
+W Face/SW Pillar (AAJ 60:248 1986)
+S Face (AAJ 56:237 1982) (Yugoslav 1981 ascent route)
+NE Ridge (AAJ 56:239 1982) (Yugoslav 1981 descent route)"
+5,EVER,Everest,"Sagarmatha, Chomolungma, Qomolungma",Khumbu Himal,8849,29032.0,12.0,2.0,1,0,0,,,4.0,2.0,"Other map altitudes:
+   8850m - National Geographic Society/Brad Washburn (1999)
+   8848m - HMG-MT, HMG-Finn, Nepa, Shangri La, Schneider, Japan MMW
+   8844m - Chinese Gov't
+
+Everest was resurveyed in November 1999 and the altitude was changed from 8848m to 8850m.
+
+Altitude milestones on Everest:
+  Normal south side BC - 5300-5400m
+  Normal C1 - 5900-6100m
+  Normal C2 - 6400-6500m
+  Btm of Lhotse Face - 6800m
+  Normal C3 - 7100-7300m
+  Yellow Band - 7500-7600mm
+  South Col (Normal C4) - 7900-7950m
+  Balcony - 8400m
+  S Summit - 8750m
+  Hillary Step - 8760m (12m)
+
+  Normal north side BC - 5200m
+  Intermediate (Yak) Camp - 5800m 
+  Normal ABC - 6400-6500m
+  North Col Wall (base) - 6700m
+  North Col - 7000m
+  1st Step - 8450-8500m
+  Green Boots Cave - 8530m
+  Mushroom Rock - 8550m
+  Yellow Band - 8600m
+  2nd Step - 8570-8680m
+  3rd Step - 8690-8700m
+",1953,1.0,EVER53101,May 29,"New Zealand, India","Edmund Hillary, Tenzing Norgay Sherpa",,Dyhrenfurth history 1921-1980 (MM 76:30-39 Nov 1980),"NE Ridge, N Ridge, N Face (High 167:70 Oct 1996)
+NE Ridge from Rongphu Glacier (High 167:71 Oct 1996)
+NE Side (High 205:67 Dec 1999)
+SE Ridge from Lhotse (High 198:36 May 1999)
+W Side from Pumori (High 226:60 Sep 2001)
+E Face (MM 124:FrntCvr,25 Nov 1988)
+ENE Ridge (MM 86:9 Jul 1982)
+SW Face (MM 47:19 Jan 1976) (with 1969-75 expedition routes)
+N Face (AAJ 71:23 1997) (Kammerlander ski route)
+E Face (AAJ 63:5-7 1989)"
+6,KANC,Kangchenjunga,,Kangchenjunga Himal (between Main and South summits),8586,27799.0,9.0,1.0,1,0,0,,,5.0,2.0,"Other map altitudes:
+   8473m - HMG-MT, HMG-Finn
+   8482m - Nepa, Shangri La, Kielkowski",1978,1.0,KANC78102,May 22,Poland,"Wojciech Branski, Zygmunt Heinrich, Kazimierz Olech",Illegal ascent,,SW Face (AAJ 68:7 1992) (Slovene 1991 route)
+7,KANG,Kangchenjunga,,Kangchenjunga Himal,8586,28169.0,9.0,1.0,1,0,0,,,5.0,2.0,"Other map altitudes:
+   8586m - HMG-MT, HMG-Finn, Nepa, Shangri La, Kielkowski
+   8598m - Japan MMW
+
+Altitude milestones on Kangchenjunga:
+  Great Shelf - 7200m-7400m",1955,1.0,KANG55101,May 25,UK,"George Band, Joe Brown",,Dyhrenfurth history 1905-1968 (MM 68:34-40 Jul 1979) ,"NW Face (High 167:67 Jul 1996, 179:19 Oct 1997, 193:20 Dec 1998)  
+W Face of N Col (High 167:68 Jul 1996)
+SW Face (MM 68:38 Jul 1979, High 179:19 Oct 1997)
+E Side (High 179:18 Oct 1997)
+S Ridge (MM 140:6 Jul 1991)
+NW Side (AAJ 73:380 1999) (from Drohmo)
+SW Ridge (AAJ 66:5 1992) (Slovene 1991 route)"
+8,KANS,Kangchenjunga,,Kangchenjunga Himal,8586,27808.0,9.0,1.0,1,0,0,,,5.0,2.0,"Other map altitudes:
+   8476m - HMG-MT, HMG-Finn, Nepa, Shangri La, Kielkowski
+   8491m - Japan MMW",1978,1.0,KANS78101,May 19,Poland,"Eugeniusz Chrobak, Wojciech Wroz",,,"S Ridge (MM 140:8 Jul 1991)
+SW Ridge (AAJ 66:5 1992) (Slovene 1991 route)"
+9,LHOT,Lhotse,,Khumbu Himal,8516,27940.0,12.0,2.0,1,0,0,,,4.0,2.0,"Other map altitudes:
+   8501m - Shangri La, Schneider, NGS/Washburn Everest
+   8511m - Japan MMW
+   8516m - HMG-MT, HMG-Finn, Kielkowski",1956,1.0,LHOT56101,May 18,Switzerland,"Fritz Luchsinger, Ernst Reiss",,History to 1993 (High 133:44-48 Dec 1993),"W Face (High 133:47 Dec 1993, 153:42 Aug 1995)
+S Face (High 133:45 Dec 1993)
+E & W summit ridges (High 180:52-56 Nov 1997) (2 pix from Lhotse summit)
+NE Face (High 193:27 Dec 1998) (Lhotse Main, Middle & Shar from Ever SE Ridge)
+S Side (AAJ 64:226 1990) (various routes)
+E Face (AAJ 63:5-7 1989)"
+10,LSHR,Lhotse,Lhotse II,Khumbu Himal (ESE of Lhotse and Lhotse Middle),8516,27500.0,12.0,2.0,1,0,0,,,4.0,2.0,"Other map altitudes:
+   8382m - HMG-MT, HMG-Finn
+   8383m - Schneider, Japan MMW
+   8386m - Shangri La, NGS/Washburn Everest
+   8393m - Nepa",1970,1.0,LSHR70101,May 12,Austria,"Josef Mayerl, Rolf Walter",,,"E Ridge (High 133:47 Dec 1993)
+S Side (AAJ 64:226 1990) (various routes)
+SW Face (AAJ 59:258 1985) (Czech 1984 route)"
+11,MAKA,Makalu,,Makalu Himal,8485,27838.0,14.0,2.0,1,0,0,,,4.0,2.0,"Other map altitudes:
+   8463m - Shangri La, Kielkowski
+   8475m - Schneider
+   8481m - Japan MMW
+   8485m - HMG-MT, HMG-Finn, Nepa
+
+Altitude milestones on Makalu:
+   Hillary BC - 4850m
+   Advanced BC - 5700m
+   Makalu La - 7400m",1955,1.0,MAKA55101,May 15,France,"Jean Couzy, Lionel Terray",,Dyhrenfurth history 1954-1978 (MM 64:46-49 Nov 1978),"E Side (High 155:10 Oct 1995) (from Tibet)
+S Face (MM 48:33 Mar 1976, 131:26 Jan 1990) 
+S Face (High 161:28 Apr 1996)
+W Face (High 130:9 Sep 1993, 179:20-21 Oct 1997)
+SE Ridge (MM 16:12 Jul 1971) (Japanese 1970 route)
+W Ridge (MM 17:7 Sep 1971) (French 1971 route)
+W Face (AAJ 71:302 1997) (various routes)
+S Face (AAJ 64:1-3 1990) (various routes)"
+12,MANA,Manaslu,"Kutang I, Peak 30",Manaslu Himal,8613,26781.0,15.0,4.0,1,0,0,,,1.0,2.0,"Other map altitudes:
+   8156m - Japan MMW, Leomann
+   8163m - HMG-MT, HMG-Finn, Nepa, Shangri La
+
+Altitude milestones on Manaslu:
+  Fore-summit - 8125-8130m
+  Crampon point - 5100m",1956,1.0,MANA56101,May 09,"Japan, Nepal","Toshio Imanishi, Gyaltsen Norbu Sherpa",,Dyhrenfurth history 1952-1978 (MM 62:38-41 Jul 1978),"E Side (High 212:59 Jul 2000)
+N Side (High 219:72 Feb 2001)
+SE Side (MM 102:15 Mar 1985)
+W Face (MM 84:11 Mar 1982)
+NW Ridge (MM 22:14 Jul 1972) (Japanese 1971 route) 
+W Face (AAJ 56:70 1982)"
+13,YALU,Kangchenjunga,Yalungkar,Kangchenjunga Himal (W summit of Kangchenjunga),8586,27904.0,9.0,1.0,1,0,0,,,1.0,2.0,"Other map altitudes:
+   8505m - HMG-MT, HMG-Finn, Nepa, Shangri La, Japan MMW, Kielkowski",1973,1.0,YALU73101,May 14,Japan,"Yutaka Ageta, Takao Matsuda",1st ascent claimed,,"S Face (MM 68:38 Jul 1979, 102:13 Mar 1985)
+SE Face (AAJ 66:190 1992) "
+14,LHOM,Lhotse,Lhotse Intermediate,Khumbu Himal (E of Lhotse),8516,27592.0,12.0,2.0,1,0,0,,Opened in 2001,4.0,2.0,"Other map altitudes:
+   8410m - HMG-MT, HMG-Finn, Shangri La, Schneider, Japan MMW
+   8414m - NGS/Washburn Everest",2001,1.0,LHOM01101,May 23,Russia,"Sergei Timofeev, Alexei Bolotov, Piotr Kouznetsov, Evgeni Vinogradski",,,
+15,YALW,Kangchenjunga,,Kangchenjunga Himal (W summit of Yalung Kang),8586,26499.0,9.0,1.0,1,0,0,,Opened in 2014,1.0,1.0,"Other map altitudes:
+   8077m - HMG-MT, HMG-Finn, Shangri La, Nepa (7780m in error?)",,0.0,,,,Unclimbed,,,

@@ -1,0 +1,24 @@
+rank,Mountain,Height_m,Height_ft,Prominence_m,Prominence_ft,Range,coordinates,Parent mountain,ascents_first,ascents_before_2004_successful,ascents_before_2004_unsuccessful,country
+1,Mount Everest,8848.86,29031.7,8848,29029,Mahalangur Himalaya,27°59′17″N 86°55′31″E,—,1953,145,121,"Nepal
+China"
+2,K2,8611.0,28251.0,4020,13190,Baltoro Karakoram,35°52′53″N 76°30′48″E,Mount Everest,1954,45,44,"Pakistan
+China"
+3,Kangchenjunga,8586.0,28169.0,3922,12867,Kangchenjunga Himalaya,27°42′12″N 88°08′51″E,Mount Everest,1955,38,24,"Nepal
+India"
+4,Lhotse,8516.0,27940.0,610,2000,Mahalangur Himalaya,27°57′42″N 86°55′59″E,Mount Everest,1956,26,26,"Nepal
+China"
+5,Makalu,8485.0,27838.0,2378,7802,Mahalangur Himalaya,27°53′23″N 87°05′20″E,Mount Everest,1955,45,—,"Nepal
+China"
+6,Cho Oyu,8188.0,26864.0,2340,7680,Mahalangur Himalaya,28°05′39″N 86°39′39″E,Mount Everest,1954,79,28,"Nepal
+China"
+7,Dhaulagiri I,8167.0,26795.0,3357,11014,Dhaulagiri Himalaya,28°41′48″N 83°29′35″E,K2,1960,51,39,Nepal
+8,Manaslu,8163.0,26781.0,3092,10144,Manaslu Himalaya,28°33′00″N 84°33′35″E,Cho Oyu,1956,49,45,Nepal
+9,Nanga Parbat,8126.0,26660.0,4608,15118,Nanga Parbat Himalaya,35°14′14″N 74°35′21″E,Dhaulagiri,1953,52,67,Pakistan
+10,Annapurna I,8091.0,26545.0,2984,9790,Annapurna Himalaya,28°35′44″N 83°49′13″E,Cho Oyu,1950,97,88,Nepal
+11,Gasherbrum I,8080.0,26510.0,2155,7070,Baltoro Karakoram,35°43′28″N 76°41′47″E,K2,1958,31,16,"Pakistan
+China"
+12,Broad Peak,8051.0,26414.0,1701,5581,Baltoro Karakoram,35°48′38″N 76°34′06″E,Gasherbrum I,1957,39,19,"Pakistan
+China"
+13,Gasherbrum II,8035.0,26362.0,1524,5000,Baltoro Karakoram,35°45′28″N 76°39′12″E,Gasherbrum I,1956,54,12,"Pakistan
+China"
+14,Shishapangma,8027.0,26335.0,2897,9505,Jugal Himalaya,28°21′12″N 85°46′43″E,Cho Oyu,1964,43,19,China
